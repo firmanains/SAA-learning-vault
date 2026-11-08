@@ -13,7 +13,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] IAM advanced: STS, cross-account roles, AWS Organizations and SCPs, IAM Identity Center — [[iam-advanced]] (2026-11-08) ⚠️ 7 unverified
 - [x] VPC fundamentals: CIDR, subnets, route tables, internet gateway, NAT gateway — [[vpc-fundamentals]] (2026-11-08) ⚠️ 6 unverified
 - [x] VPC security: security groups vs network ACLs — [[security-groups-vs-nacls]] (2026-11-08) ⚠️ 4 unverified
-- [ ] VPC connectivity: peering, Transit Gateway, VPC endpoints, PrivateLink, Site-to-Site VPN, Direct Connect
+- [x] VPC connectivity: peering, Transit Gateway, VPC endpoints, PrivateLink, Site-to-Site VPN, Direct Connect — [[_index-vpc-connectivity]] (2026-11-08) ⚠️ 13 unverified
 - [ ] Encryption and secrets: KMS, CloudHSM, ACM, Secrets Manager vs Systems Manager Parameter Store
 - [ ] Threat protection: WAF, Shield, GuardDuty, Inspector, Macie, Cognito
 
