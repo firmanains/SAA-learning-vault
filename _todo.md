@@ -24,7 +24,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] Decoupling: SQS, SNS, EventBridge, fan-out pattern — [[_index-decoupling]] (2026-11-08) ⚠️ 11 unverified
 - [x] Route 53: record types, routing policies, health checks — [[route-53]] (2026-11-08) ⚠️ 9 unverified
 - [x] Disaster recovery strategies and AWS Backup — [[disaster-recovery-and-aws-backup]] (2026-11-08) ⚠️ 7 unverified
-- [ ] Monitoring and audit: CloudWatch, CloudTrail, AWS Config
+- [x] Monitoring and audit: CloudWatch, CloudTrail, AWS Config — [[_index-monitoring-and-audit]] (2026-11-08) ⚠️ 15 unverified
 
 ## Domain 3 — Design High-Performing Architectures (24%)
 - [ ] S3 fundamentals: storage classes, versioning, lifecycle, replication
