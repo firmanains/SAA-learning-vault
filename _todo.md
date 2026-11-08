@@ -15,7 +15,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] VPC security: security groups vs network ACLs — [[security-groups-vs-nacls]] (2026-11-08) ⚠️ 4 unverified
 - [x] VPC connectivity: peering, Transit Gateway, VPC endpoints, PrivateLink, Site-to-Site VPN, Direct Connect — [[_index-vpc-connectivity]] (2026-11-08) ⚠️ 13 unverified
 - [x] Encryption and secrets: KMS, CloudHSM, ACM, Secrets Manager vs Systems Manager Parameter Store — [[_index-encryption-and-secrets]] (2026-11-08) ⚠️ 12 unverified
-- [ ] Threat protection: WAF, Shield, GuardDuty, Inspector, Macie, Cognito
+- [x] Threat protection: WAF, Shield, GuardDuty, Inspector, Macie, Cognito — [[_index-threat-protection]] (2026-11-08) ⚠️ 14 unverified
 
 ## Domain 2 — Design Resilient Architectures (26%)
 - [ ] EC2 fundamentals: instance types, AMIs, placement groups
