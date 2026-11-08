@@ -22,7 +22,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] Elastic Load Balancing: ALB vs NLB vs GWLB — [[elastic-load-balancing]] (2026-11-08) ⚠️ 7 unverified
 - [x] EC2 Auto Scaling: groups, launch templates, scaling policies — [[ec2-auto-scaling]] (2026-11-08) ⚠️ 8 unverified
 - [x] Decoupling: SQS, SNS, EventBridge, fan-out pattern — [[_index-decoupling]] (2026-11-08) ⚠️ 11 unverified
-- [ ] Route 53: record types, routing policies, health checks
+- [x] Route 53: record types, routing policies, health checks — [[route-53]] (2026-11-08) ⚠️ 9 unverified
 - [ ] Disaster recovery strategies and AWS Backup
 - [ ] Monitoring and audit: CloudWatch, CloudTrail, AWS Config
 
