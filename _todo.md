@@ -28,7 +28,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 
 ## Domain 3 — Design High-Performing Architectures (24%)
 - [x] S3 fundamentals: storage classes, versioning, lifecycle, replication — [[s3-fundamentals]] (2026-11-08) ⚠️ 5 unverified
-- [ ] S3 security and performance: bucket policies, encryption, presigned URLs, multipart upload, Transfer Acceleration
+- [x] S3 security and performance: bucket policies, encryption, presigned URLs, multipart upload, Transfer Acceleration — [[s3-security-and-performance]] (2026-11-08) ⚠️ 10 unverified
 - [ ] Block and file storage: EBS vs instance store vs EFS vs FSx
 - [ ] RDS and Aurora: Multi-AZ vs read replicas, Aurora features, RDS Proxy
 - [ ] DynamoDB: keys, capacity modes, DAX, global tables
