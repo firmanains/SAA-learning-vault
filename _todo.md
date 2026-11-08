@@ -19,7 +19,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 
 ## Domain 2 — Design Resilient Architectures (26%)
 - [x] EC2 fundamentals: instance types, AMIs, placement groups — [[ec2-fundamentals]] (2026-11-08) ⚠️ 7 unverified
-- [ ] Elastic Load Balancing: ALB vs NLB vs GWLB
+- [x] Elastic Load Balancing: ALB vs NLB vs GWLB — [[elastic-load-balancing]] (2026-11-08) ⚠️ 7 unverified
 - [ ] EC2 Auto Scaling: groups, launch templates, scaling policies
 - [ ] Decoupling: SQS, SNS, EventBridge, fan-out pattern
 - [ ] Route 53: record types, routing policies, health checks
