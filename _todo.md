@@ -18,7 +18,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] Threat protection: WAF, Shield, GuardDuty, Inspector, Macie, Cognito — [[_index-threat-protection]] (2026-11-08) ⚠️ 14 unverified
 
 ## Domain 2 — Design Resilient Architectures (26%)
-- [ ] EC2 fundamentals: instance types, AMIs, placement groups
+- [x] EC2 fundamentals: instance types, AMIs, placement groups — [[ec2-fundamentals]] (2026-11-08) ⚠️ 7 unverified
 - [ ] Elastic Load Balancing: ALB vs NLB vs GWLB
 - [ ] EC2 Auto Scaling: groups, launch templates, scaling policies
 - [ ] Decoupling: SQS, SNS, EventBridge, fan-out pattern
