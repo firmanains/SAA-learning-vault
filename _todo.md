@@ -27,7 +27,7 @@ Ticked items are done. ⚠️ means some claims were left out as unverified; che
 - [x] Monitoring and audit: CloudWatch, CloudTrail, AWS Config — [[_index-monitoring-and-audit]] (2026-11-08) ⚠️ 15 unverified
 
 ## Domain 3 — Design High-Performing Architectures (24%)
-- [ ] S3 fundamentals: storage classes, versioning, lifecycle, replication
+- [x] S3 fundamentals: storage classes, versioning, lifecycle, replication — [[s3-fundamentals]] (2026-11-08) ⚠️ 5 unverified
 - [ ] S3 security and performance: bucket policies, encryption, presigned URLs, multipart upload, Transfer Acceleration
 - [ ] Block and file storage: EBS vs instance store vs EFS vs FSx
 - [ ] RDS and Aurora: Multi-AZ vs read replicas, Aurora features, RDS Proxy
